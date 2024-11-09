@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriOdevi8", "VeriOdevi8.csproj", "{54796388-6021-4695-AD0F-B5B15E0D1C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive_Yontemi", "..\Recursive_Yontemi\Recursive_Yontemi.csproj", "{3E0D77FC-F6AF-4B79-B841-072BC9DB0C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54796388-6021-4695-AD0F-B5B15E0D1C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54796388-6021-4695-AD0F-B5B15E0D1C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54796388-6021-4695-AD0F-B5B15E0D1C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54796388-6021-4695-AD0F-B5B15E0D1C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0D77FC-F6AF-4B79-B841-072BC9DB0C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0D77FC-F6AF-4B79-B841-072BC9DB0C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0D77FC-F6AF-4B79-B841-072BC9DB0C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0D77FC-F6AF-4B79-B841-072BC9DB0C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA3C537-248B-4D42-9526-AEE589AAB3DF}
+	EndGlobalSection
+EndGlobal
